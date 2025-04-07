@@ -1,3 +1,3 @@
 # Youtune
 
-Download Youtube videos to mp3, mp4, wav and flac
+Download Youtube videos to MP3, MP4, WAV and FLAC.
